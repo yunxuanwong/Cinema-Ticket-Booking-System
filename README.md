@@ -1,5 +1,5 @@
-# Cinema-Booking-System
-The Cinema Booking System is a Java-based application developed using Object-Oriented Programming (OOP) concepts. It is designed to streamline and manage the process of booking movie tickets efficiently for different types of users. Specific functions are assigned to each role to ensure smooth operation and management of the cinema services.
+# Cinema Ticket Booking System
+The Cinema Ticket Booking System is a Java-based application developed using Object-Oriented Programming (OOP) concepts. It is designed to streamline and manage the process of booking movie tickets efficiently for different types of users. Specific functions are assigned to each role to ensure smooth operation and management of the cinema services.
 
 # Roles
 1. Ticketing Clerk
